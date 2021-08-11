@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="left" src="https://user-images.githubusercontent.com/54600788/128985687-f1d248d9-1c39-4426-b88e-bdb7f46cb7bf.png"></img>
+<img height = "200" align="left" src="https://user-images.githubusercontent.com/54600788/128985687-f1d248d9-1c39-4426-b88e-bdb7f46cb7bf.png"></img>
 
 
 ### Idea :
@@ -28,14 +28,14 @@ Idea is to build a tool that runs in the background on the examinee’s machine,
 <br>
 
 ### Working :
-<img align="right" src="https://user-images.githubusercontent.com/54600788/128986198-c45a1db1-0c62-42d3-b47a-7a43827b2066.png"></img>
+<img height = "200" align="right" src="https://user-images.githubusercontent.com/54600788/128986198-c45a1db1-0c62-42d3-b47a-7a43827b2066.png"></img>
 
 <p>
 It works as in, <b>As soon as the test starts at the student's end, the system's camera at the candidate's end starts capturing the video frames</b>. Upon this video frame, the <b>frontal_face_detector detects the count of faces in the frame</b>; blink detection script, evaluates if the <b>candidate is blinking (or ultimately looking down)</b> & the <b>Iris movements of the candidate is tracked , using gaze detection and face_detection_68_facial_landmarks data model</b>. Object Detection is also enabled in the test envoirnment.
 </p>
 
 <p>
-  Via a <b>fine-tuned function</b>, this script considering <b>all the factors(blink, gaze, object detection, facial counts..)</b>, calculates a suspicion value, which is then compared with a Threshold value, and <b>if the suspicion value exceeds<br> the threshold value; the student is given a warning( 2 times ), the 3rd time it happens, test ends automatically.</b>
+  Via a <b>fine-tuned function</b>, this script considering <b>all the factors(blink, gaze, object detection, facial counts..)</b>, calculates a suspicion value, which is then compared with a Threshold value, and <b>if the suspicion value exceeds the threshold value; the student is given a warning( 2 times ), the 3rd time it happens,<br> test ends automatically.</b>
 </p>
 <br>
 
