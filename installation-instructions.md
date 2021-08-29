@@ -14,14 +14,14 @@
 	
 	<code><b>pip install virtualenv</b></code>
 
-<br>To read more on this : <code><b>https://www.geeksforgeeks.org/python-virtual-environment/</b></code>
+   To read more on this : <code><b>https://www.geeksforgeeks.org/python-virtual-environment/</b></code>
+<br>
 
 5. <b>Clone the git repository for the project using:</b>
 
 	<code><b>git clone https://github.com/deepanshu-Raj/AI-Proctoring-Framework.git</b></code>
 	
    Or, <b>download the project in the .zip format</b>
-
 <br>
 
 6. <b>Go inside this project directory using cd command in "cmd". Once inside the folder, create a virtual envoirnment for your pc using :</b>
