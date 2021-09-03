@@ -48,7 +48,7 @@ It works as in, <b>As soon as the test starts at the student's end, the system's
   <summary>:zap: <strong>Proposed Features </strong> </summary>
  
   
-- <code>-</code> &nbsp; Mouth Tracking
+- <code>&#x2713;</code> &nbsp; Mouth Tracking
 - <code>&#x2713;</code> &nbsp; Eye Tracking
 - <code>&#x2713;</code> &nbsp; Gaze Detection
 - <code>-</code> &nbsp; Liveliness Detection
