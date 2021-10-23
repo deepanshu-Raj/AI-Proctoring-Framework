@@ -53,3 +53,4 @@ It works as in, <b>As soon as the test starts at the student's end, the system's
 - <code>&#x2713;</code> &nbsp; Gaze Detection
 - <code>-</code> &nbsp; Liveliness Detection
 - <code>-</code> &nbsp; Object Detection
+- <code>-</code> &nbsp; Voice Proctoring
