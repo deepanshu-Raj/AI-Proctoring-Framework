@@ -1,6 +1,6 @@
 <h1 align="center">AI-Proctoring-Framework</h1>
 <h3 align="center">B.Tech Final Year Project - I</h3>
-
+<p align="center"><code><b>Do "⭐" the repository, if you liked the work</b></code></p>
 <br><br>
 
 <img align="right" src="https://user-images.githubusercontent.com/54600788/128983568-928da7b1-a365-49d9-be17-01a94add0fcb.png"></img>
