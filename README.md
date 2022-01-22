@@ -41,16 +41,18 @@ It works as in, <b>As soon as the test starts at the student's end, the system's
 
 ### 📌 AI-Proctoring-Framework Progress
 
-<b>NOTE : </b> Use <code>&#x2713;</code> for marking the progress
+<b>NOTE : </b> Use ✅ for marking the progress
 
 <details>
   
   <summary>:zap: <strong>Proposed Features </strong> </summary>
  
   
-- <code>&#x2713;</code> &nbsp; Mouth Tracking
-- <code>&#x2713;</code> &nbsp; Eye Tracking
-- <code>&#x2713;</code> &nbsp; Gaze Detection
-- <code>&#x2713;</code> &nbsp; Liveliness Detection
-- <code>&#x2713;</code> &nbsp; Object Detection
-- <code>-</code> &nbsp; Voice Proctoring
+- ✅ &nbsp; Mouth Tracking
+- ✅ &nbsp; Eye Tracking
+- ✅ &nbsp; Gaze Detection
+- ✅ &nbsp; Liveliness Detection
+- ✅ &nbsp; Object Detection
+- ❌ &nbsp; Voice Proctoring
+ 
+</details>
