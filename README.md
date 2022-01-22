@@ -56,3 +56,49 @@ It works as in, <b>As soon as the test starts at the student's end, the system's
 - ❌ &nbsp; Voice Proctoring
  
 </details>
+
+
+### 🎆 Implemented Features
+
+<details>
+  
+  <summary>:zap: <strong>Demonstrations</strong> </summary>
+
+<br>
+<p align="center">
+ <kbd>
+ <img height="400" width="700" src="https://user-images.githubusercontent.com/54600788/150630492-9ca34acc-7249-4cc0-8243-cddd284238eb.png"></img>
+ </kbd>
+</p>
+<h4 align="center">Fig 1 : Face Localization & 68 Facial Landmark Mapping </h4>
+<br><br>
+<p align="center">
+ <kbd>
+ <img height="400" width="700" src="https://github.com/deepanshu-Raj/AI-Proctoring-Framework/blob/master/Videos/blink.gif"></img>
+ </kbd>
+</p>
+<h4 align="center">Fig 2 : Blink Detection </h4>
+<br><br>
+<p align="center">
+ <kbd>
+ <img height="400" width="700" src="https://github.com/deepanshu-Raj/AI-Proctoring-Framework/blob/master/Videos/gaze.gif"></img>
+ </kbd>
+</p>
+<h4 align="center">Fig 3 : Gaze Detection </h4>
+<br><br>
+<p align="center">
+ <kbd>
+ <img height="300" width="600" src="https://user-images.githubusercontent.com/54600788/150631473-6347b2a2-5b16-489e-8bb3-bf0c887a0786.png"></img>
+ </kbd>
+</p>
+<h4 align="center">Fig 4 : Object Detection </h4>
+<br><br>
+<p align="center">
+ <kbd>
+ <img height="400" width="700" src="https://user-images.githubusercontent.com/54600788/150631583-42bd3479-4569-41aa-adbc-53f5d93d3510.png"></img>
+ </kbd>
+</p>
+<h4 align="center">Fig 5 : Liveness Detection </h4>
+<br><br>
+
+</details>
